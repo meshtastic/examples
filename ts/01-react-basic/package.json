@@ -1,0 +1,30 @@
+{
+  "name": "bun-react-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.tsx",
+  "module": "src/index.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "@meshtastic/core": "npm:@jsr/meshtastic__core@2.6.4",
+    "@meshtastic/transport-http": "npm:@jsr/meshtastic__transport-http",
+    "@meshtastic/transport-web-bluetooth": "npm:@jsr/meshtastic__transport-web-bluetooth",
+    "@meshtastic/transport-web-serial": "npm:@jsr/meshtastic__transport-web-serial",
+    "@tailwindcss/vite": "^4.1.11",
+    "react": "^19",
+    "react-dom": "^19",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.0"
+  }
+}
