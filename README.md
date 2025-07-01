@@ -87,6 +87,8 @@ This project is licensed under the GNU v3 License - see the LICENSE file for det
 
 - Meshtastic GitHub Organization: https://github.com/meshtastic
 
-- Meshtastic Community Forum: https://meshtastic.discourse.group/
+- Meshtastic Github Discussions: https://github.com/orgs/meshtastic/discussions
+
+- Meshtastic Discord: https://discord.gg/meshtastic
 
 We hope these examples help you get started with your Meshtastic projects!ted with your Meshtastic projects!
